@@ -6,7 +6,7 @@ This project is a web application developed using React and Django which lets us
 
 1. Clone the repository:
 ```
-
+https://github.com/AlirezaMz10/Django-React-Crop-Image.git
 ```
 1. Create venv folder:
 ```
